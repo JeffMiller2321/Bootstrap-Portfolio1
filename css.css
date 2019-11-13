@@ -1,0 +1,8 @@
+
+     .sr-only {
+        transition: background-color 0.5s ease;
+        background-color: red;
+      }
+      .sr-only:hover {
+        background-color: green;
+      }
